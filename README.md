@@ -1,11 +1,11 @@
-# superstore-database-sql
-superstore sales
+# Superstore_Database_sql
+Superstore sales data
 #  Project Overview:
 This project analyzes sales data from a fictional Superstore using **SQL**.  
 The goal is to explore key business insights such as total sales, profit trends, customer behavior, and product performance using SQL queries.  
 It demonstrates how SQL can be used for **data cleaning, aggregation, and business analytics**.
 #  SQL Concepts Used:
-- `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `LIMIT`  
+- 'SELECT', `WHERE`, `GROUP BY`, `ORDER BY`, `LIMIT`  
 - Aggregate functions: `SUM()`, `AVG()`, `MIN()`, `MAX()`, `COUNT()`  
 - `DISTINCT` and filtering conditions  
 - Window functions: `SUM() OVER(PARTITION BY ...)`  
